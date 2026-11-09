@@ -1,0 +1,5 @@
+Test Case: e02_unknown_opcode
+Reason: Wrong exit status (expected nonzero, got 0)
+Command: ./vm test_cases/inputs/e02_unknown_opcode.txt
+Expected: expected_results/e02_unknown_opcode.txt
+Your Output: student_output/e02_unknown_opcode_output.txt
